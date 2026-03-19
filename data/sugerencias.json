@@ -1,0 +1,6 @@
+[
+    { "categoria": "Fondo de Emergencia", "montoSugerido": 500 },
+    { "categoria": "Ahorro para Viajes", "montoSugerido": 300 },
+    { "categoria": "Inversión en Cripto", "montoSugerido": 150 },
+    { "categoria": "Fondo Educativo", "montoSugerido": 1000 }
+]
